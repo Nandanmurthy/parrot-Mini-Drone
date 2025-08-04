@@ -1,4 +1,4 @@
-# Simulation of Line Follower Drone
+# Simulation of Line Follower Drone !
 
 Development of line follower algorithm based on Parrot mini drone for MathWorks Minidrone Competitions. Simulation is done using Simulink MATLAB.
 In the given environment, line to be followed is red in colour and has a circle at the ending of red line for landing. Camera on drone is utilised to detect the lines and circle.
